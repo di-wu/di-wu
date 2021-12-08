@@ -1,6 +1,6 @@
 <!-- License Icons (CC BY 4.0): https://fontawesome.com/license/free -->
 
-<a href="https://twitter.com/quint_av8" target="_blank">
+<a href="https://twitter.com/q_uint8" target="_blank">
     <img src="./icons/twitter.svg" width="50" height="50"/>
 </a>
 
